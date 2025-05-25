@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "dedaunan104@gmail.com",
+      "password": "daun1234",
+      "userType": "manager",
+      "name": "Daun Manager",
+      "department": "General Management"
+    },
+    {
+      "id": 2,
+      "email": "admin@hotel.com",
+      "password": "admin123",
+      "userType": "admin",
+      "name": "Hotel Admin"
+    },
+    {
+      "id": 3,
+      "email": "guest@example.com",
+      "password": "guest123",
+      "userType": "guest",
+      "name": "John Guest"
+    }
+  ]
+}

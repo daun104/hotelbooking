@@ -1,0 +1,79 @@
+{
+  "roomTypes": [
+    {
+      "id": 1,
+      "name": "Standard Room",
+      "price": 120,
+      "priceDisplay": "$120/night",
+      "capacity": "2 guests",
+      "maxGuests": 2,
+      "amenities": ["Free WiFi", "Air Conditioning", "TV", "Private Bathroom"],
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Comfortable and affordable accommodation with all essential amenities.",
+      "size": "25 sqm",
+      "bedType": "Queen Bed",
+      "available": true,
+      "features": ["City view", "Work desk", "Mini fridge", "Coffee maker"]
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Suite",
+      "price": 250,
+      "priceDisplay": "$250/night",
+      "capacity": "4 guests",
+      "maxGuests": 4,
+      "amenities": ["Ocean View", "Mini Bar", "Balcony", "Free WiFi", "Air Conditioning"],
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Spacious suite with stunning ocean views and premium amenities.",
+      "size": "45 sqm",
+      "bedType": "King Bed + Sofa Bed",
+      "available": true,
+      "features": ["Ocean view", "Private balcony", "Separate living area", "Premium toiletries"]
+    },
+    {
+      "id": 3,
+      "name": "Presidential Suite",
+      "price": 500,
+      "priceDisplay": "$500/night",
+      "capacity": "6 guests",
+      "maxGuests": 6,
+      "amenities": ["Private Pool", "Butler Service", "Spa Access", "Ocean View", "Mini Bar"],
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Ultimate luxury experience with exclusive amenities and personalized service.",
+      "size": "80 sqm",
+      "bedType": "King Bed + 2 Single Beds",
+      "available": true,
+      "features": ["Private pool", "24/7 butler service", "Spa access", "Dining area", "Premium bar"]
+    },
+    {
+      "id": 4,
+      "name": "Family Room",
+      "price": 180,
+      "priceDisplay": "$180/night",
+      "capacity": "5 guests",
+      "maxGuests": 5,
+      "amenities": ["Free WiFi", "Air Conditioning", "TV", "Kitchenette", "Game Console"],
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Perfect for families with children, featuring entertainment and cooking facilities.",
+      "size": "35 sqm",
+      "bedType": "Queen Bed + Bunk Beds",
+      "available": true,
+      "features": ["Kitchenette", "Game console", "Child-safe features", "Extra storage"]
+    },
+    {
+      "id": 5,
+      "name": "Business Suite",
+      "price": 320,
+      "priceDisplay": "$320/night",
+      "capacity": "2 guests",
+      "maxGuests": 2,
+      "amenities": ["Free WiFi", "Work Station", "Meeting Room Access", "Business Center"],
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Designed for business travelers with professional amenities and services.",
+      "size": "40 sqm",
+      "bedType": "King Bed",
+      "available": false,
+      "features": ["Executive work station", "High-speed internet", "Meeting room access", "Business center privileges"]
+    }
+  ]
+}

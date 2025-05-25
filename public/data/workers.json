@@ -1,0 +1,76 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Maria Garcia",
+      "department": "Housekeeping",
+      "salary": 2800,
+      "schedule": "Morning",
+      "status": "active",
+      "email": "maria.garcia@hotel.com",
+      "phone": "+1-555-0101",
+      "hireDate": "2023-01-15",
+      "position": "Senior Housekeeper"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Rodriguez",
+      "department": "Housekeeping",
+      "salary": 2600,
+      "schedule": "Afternoon",
+      "status": "active",
+      "email": "carlos.rodriguez@hotel.com",
+      "phone": "+1-555-0102",
+      "hireDate": "2023-03-20",
+      "position": "Housekeeper"
+    },
+    {
+      "id": 3,
+      "name": "Ana Lopez",
+      "department": "Front Desk",
+      "salary": 3200,
+      "schedule": "Night",
+      "status": "active",
+      "email": "ana.lopez@hotel.com",
+      "phone": "+1-555-0103",
+      "hireDate": "2022-11-10",
+      "position": "Front Desk Supervisor"
+    },
+    {
+      "id": 4,
+      "name": "Luis Martinez",
+      "department": "Maintenance",
+      "salary": 3500,
+      "schedule": "Morning",
+      "status": "on-leave",
+      "email": "luis.martinez@hotel.com",
+      "phone": "+1-555-0104",
+      "hireDate": "2022-08-05",
+      "position": "Maintenance Technician"
+    },
+    {
+      "id": 5,
+      "name": "Sofia Chen",
+      "department": "Front Desk",
+      "salary": 2900,
+      "schedule": "Morning",
+      "status": "active",
+      "email": "sofia.chen@hotel.com",
+      "phone": "+1-555-0105",
+      "hireDate": "2023-05-12",
+      "position": "Receptionist"
+    },
+    {
+      "id": 6,
+      "name": "Miguel Santos",
+      "department": "Security",
+      "salary": 3100,
+      "schedule": "Night",
+      "status": "active",
+      "email": "miguel.santos@hotel.com",
+      "phone": "+1-555-0106",
+      "hireDate": "2023-02-28",
+      "position": "Security Guard"
+    }
+  ]
+}
